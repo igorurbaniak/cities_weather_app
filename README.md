@@ -1,16 +1,12 @@
-# simple_weather
+Tempereture measurement application
 
-A new Flutter project.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/106092123/181094164-dd40d4d9-f203-4cf5-9abe-3e52f6d6dba6.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/106092123/181094292-6e53c39d-4705-4718-9543-7ddc6b4b6a5b.png" width="300" height="600" />
+</p>
 
-## Getting Started
+<p float="left">
+<img src="https://user-images.githubusercontent.com/106092123/181094416-16a12a26-d4af-4d8d-a361-b254214f1266.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/106092123/181094536-5c7cf549-42fc-4e6a-828e-fef7a1430794.png" width="300" height="600" />
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
